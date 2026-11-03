@@ -23,7 +23,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 📂 Projetos
 
-- [Olho Vivo](https://github.com/Marlon-Mzz) - Projeto de desenvolvimento web.
+- [Comida tipicas brasil](https://github.com/Marlon-Mzz) - Projeto de desenvolvimento web.
 
 📫 Contato
 
