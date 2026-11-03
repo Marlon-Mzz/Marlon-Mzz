@@ -1,16 +1,32 @@
-## Hi there 👋
+Olá! Eu sou Marlon Mezzomo 👋
 
-<!--
-**Marlon-Mzz/Marlon-Mzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Tecnologia da Informação e entusiasta da programação.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvimento web, buscando aprender novas tecnologias e melhorar minhas habilidades através de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+
+- 📚 Estudando programação e desenvolvimento de sistemas.
+- 🌐 Interesse em desenvolvimento web.
+- 💡 Aprendendo a desenvolver projetos e solucionar problemas.
+- 🎯 Meu objetivo é evoluir profissionalmente na área de tecnologia.
+
+🛠️ Tecnologias
+
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+📂 Projetos
+
+- [Olho Vivo](https://github.com/Marlon-Mzz) - Projeto de desenvolvimento web.
+- [Sistema de Estacionamento](https://github.com/Marlon-Mzz) - Programa desenvolvido em C.
+
+📫 Contato
+
+- GitHub: [Marlon-Mzz](https://github.com/Marlon-Mzz)
+- Email: Marlon.pamela5@gmail.com
