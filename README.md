@@ -23,7 +23,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 
 📂 Projetos
 
-- [Comida tipicas brasil](https://github.com/Marlon-Mzz) - Projeto de desenvolvimento web.
+- [Comida tipicas brasil]([https://github.com/Marlon-Mzz](https://github.com/Marlon-Mzz/Comidas-Tipicas-Brasil)) - Projeto de desenvolvimento web.
 
 📫 Contato
 
