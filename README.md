@@ -24,7 +24,6 @@ Atualmente estou desenvolvendo meus conhecimentos em programação e desenvolvim
 📂 Projetos
 
 - [Olho Vivo](https://github.com/Marlon-Mzz) - Projeto de desenvolvimento web.
-- [Sistema de Estacionamento](https://github.com/Marlon-Mzz) - Programa desenvolvido em C.
 
 📫 Contato
 
